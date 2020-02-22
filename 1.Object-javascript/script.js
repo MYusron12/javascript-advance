@@ -1,5 +1,6 @@
 // membuat object pada javascript
 //1. object literal
+//PROBLEM: Tidak bisa digunakan object yang banyak
 // let mahasiswa1 = {
 //     nama: 'Yusron',
 //     energi: 10,
@@ -24,6 +25,7 @@
 
 
 //2. function declaration
+//PROBLEM: 
 // function Mahasiswa(nama, energi) {
 //     let mahasiswa = {};
 //     mahasiswa.nama = nama;
@@ -46,20 +48,22 @@
 
 //3. Constructor Function
 //keyword new
-function Mahasiswa(nama, energi) {
-    this.nama = nama;
-    this.energi = energi;
+// function Mahasiswa(nama, energi) {
+//     this.nama = nama;
+//     this.energi = energi;
 
-    this.makan = function() {
-        this.energi += ProcessingInstruction;
-        console.log(`Halo ${this.nama}, selamat makan`);
-    }
-    this.main = function(jam) {
-        this.energi -= jam;
-        console.log(`Halo ${this.nama}, selamat bermai`);
-    }
-}
+//     this.makan = function() {
+//         this.energi += ProcessingInstruction;
+//         console.log(`Halo ${this.nama}, selamat makan`);
+//     }
+//     this.main = function(jam) {
+//         this.energi -= jam;
+//         console.log(`Halo ${this.nama}, selamat bermai`);
+//     }
+// }
+// let mhs1 = new Mahasiswa('Yusron', 10);
 
-let mhs1 = new Mahasiswa('Yusron', 10);
+
+
 
 //4. Object.create
