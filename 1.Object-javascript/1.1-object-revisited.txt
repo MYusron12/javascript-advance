@@ -1,0 +1,5 @@
+Membuat Object javascript
+- Object Literal
+- Function Declaration
+- Constructor function
+- object.created()
