@@ -1,0 +1,7 @@
+Closure = merupakan kombinasi antara function dan lingkungan leksikal (lexical scope) dalam function tersebut (mozila)
+
+Closure adalah sebuah function ketika memiliki akses ke parent scopenya, meskipun parent scopenya sudah selesai di eksekusi (w3 school)
+
+Closure adlah sebuah function dikembalikan oleh function yg lain, yang memiliki akses ke lingkungan saat ia diciptakan. (code fellow)
+
+Closure adalah sebuah function yg sebelumnya memiliki data, hasil dari function yg lain(tracsite)
