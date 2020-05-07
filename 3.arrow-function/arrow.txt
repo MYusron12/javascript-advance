@@ -1,0 +1,8 @@
+arrow function adlah cara lain yg lebih ringkas dai function expression
+
+//arrow function
+
+let tampilPesan = (nama) => {
+    alert(`halo` + nama);
+}
+tampilPesan(`yusron`);

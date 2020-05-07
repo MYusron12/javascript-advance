@@ -1,0 +1,1 @@
+higher order function adlah function yang beroperasi pada function lain, baik iitu digunakan dalam argument, maupun sebagai return value
