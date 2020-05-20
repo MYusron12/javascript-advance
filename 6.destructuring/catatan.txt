@@ -1,0 +1,26 @@
+destructuring variable atau destructuring assignment adlah expression pada javascript yang membuat kita dapat membongkar nilai dari array atau properti dari object ke dalam variable yg terpisah
+mdn web docs
+
+
+
+contoh array yg dipetakan oleh destructuring
+const cba =  ['satu', 'dua', 'tiga'];
+const [a, b, c] = coba;
+console.log(a);
+console.log(b);
+console.log(c);
+
+
+contoh object yg distructuring
+const mhs = {
+    nama: 'yusron,
+    umur: 27,
+    email: 'r@gmail.com'
+};
+const {nama, umur, email} = mhs;
+console.log(nama);
+console.log(umur);
+console.log(email);
+
+
+
