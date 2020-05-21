@@ -1,0 +1,5 @@
+spread operator adalah memecah iterable menjadi single element
+
+
+
+

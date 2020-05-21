@@ -1,0 +1,12 @@
+teknik asychronous javascript
+javascript adalah bahasa pemrograman tinggi dan dinams yg secara umum dapat berjlan di atas proses
+
+javascript adalah single-thread yaitu urutan eksekusi kode yang dapat dilakukan secara bebas / independent satu sama lain
+
+javascript blocking adalah eksekusi bertahap pada sourcecode
+
+
+javascript synchronous adalah 
+
+
+

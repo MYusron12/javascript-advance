@@ -1,0 +1,3 @@
+lopping baru pada javascript modern
+- for of //sebuah looping yg bisa menelusuri object itterable
+- for in //
