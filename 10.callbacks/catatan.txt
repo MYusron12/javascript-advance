@@ -1,0 +1,3 @@
+callbacks adalah function yang ikirmkan sebagai parameter pada function yang lain
+
+callbacks juga merupakan sebuah function yang di eksekusi setelah function lain dijalankan
